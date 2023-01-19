@@ -29,4 +29,4 @@ between these hosts.
  * [Mailing List](https://lists.fedorahosted.org/admin/lists/cockpit-devel.lists.fedorahosted.org/)
  * [Guiding Principles](https://cockpit-project.org/ideals.html)
  * [Release Notes](https://cockpit-project.org/blog/category/release.html)
- * [Privacy Policy](https://cockpit-project.org/privacy.html)
+ * [Privacy Policy](https://cockpit-project.org/privacy.html) 
